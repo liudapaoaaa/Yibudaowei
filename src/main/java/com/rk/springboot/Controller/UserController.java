@@ -17,7 +17,7 @@ public class UserController {
     private UserJPA userJPA;
 
     /**
-     * 查询列表
+     * 查询列表aaa
      * @return
      */
     @RequestMapping(value = "/list",method = RequestMethod.GET)
