@@ -26,7 +26,7 @@ public class UserController {
     }
 	
 	 /**
-     * 11111111111
+     * 11111111111驱蚊器翁
      * @return
      */
     @RequestMapping(value = "/list",method = RequestMethod.GET)
